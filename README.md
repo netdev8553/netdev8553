@@ -6,6 +6,9 @@ I love to build the ⚡ website ⚡ and ⚡ webapp⚡ , I have huge attraction o
 
 - 🚀 I use daily:
   ![Java](https://img.shields.io/badge/-Java-007396?logo=Java&style=plastic)
+  ![C sharp](https://img.shields.io/badge/-C%20Sharp-239120?logo=C%20Sharp&style=plastic)
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=C++&style=plastic)
+  ![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&style=plastic)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
