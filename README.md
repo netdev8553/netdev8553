@@ -5,6 +5,7 @@
 I love to build the ⚡ website ⚡ and ⚡ webapp⚡ , I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code.
 
 - 🚀 I use daily:
+  ![Java](https://img.shields.io/badge/-Java-007396?logo=Java&style=plastic)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
