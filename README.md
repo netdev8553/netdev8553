@@ -6,14 +6,13 @@ I love to build the ⚡ website ⚡ and ⚡ webapp⚡ , I have huge attraction o
 
 - 🚀 I use daily:
   ![Java](https://img.shields.io/badge/-Java-007396?logo=Java&style=plastic)
+  ![.Net](https://img.shields.io/badge/-.NET-512BD4?logo=.NET&style=plastic)
   ![C sharp](https://img.shields.io/badge/-C%20Sharp-239120?logo=C%20Sharp&style=plastic)
   ![C++](https://img.shields.io/badge/-C++-00599C?logo=C++&style=plastic)
   ![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&style=plastic)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=Kotlin&style=plastic)
   ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=Hibernate&style=plastic)
   ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=Socket.io&style=plastic)
-  ![.Net](https://img.shields.io/badge/-.NET-512BD4?logo=.NET&style=plastic)
-
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
