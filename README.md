@@ -5,9 +5,9 @@
 I love to build the ⚡ website ⚡ and ⚡ webapp⚡ , I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code.
 
 - 🚀 I use daily:
-  ![Java](https://img.shields.io/badge/-Java-007396?logo=Java&style=plastic)
   ![.Net](https://img.shields.io/badge/-.NET-512BD4?logo=.NET&style=plastic)
   ![C sharp](https://img.shields.io/badge/-C%20Sharp-239120?logo=C%20Sharp&style=plastic)
+  ![Java](https://img.shields.io/badge/-Java-007396?logo=Java&style=plastic)
   ![C++](https://img.shields.io/badge/-C++-00599C?logo=C++&style=plastic)
   ![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&style=plastic)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=Kotlin&style=plastic)
